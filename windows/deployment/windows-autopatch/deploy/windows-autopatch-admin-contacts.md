@@ -42,3 +42,11 @@ Your admin contacts will receive notifications about support request updates and
 1. Select an [Area of focus](#area-of-focus) and enter details of the contact's knowledge and authority in the specified area of focus.  
 1. Select **Save** to add the contact.
 1. Repeat for each area of focus.
+
+
+**To include mail notifications:**
+1. Sign in to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter)
+2. Go to Preferences and Switch to Email tab
+3. Select Microsoft 365 Suite & Windows
+4. Add the email address of the admins in question.
+5. Hit Save.
